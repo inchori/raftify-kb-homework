@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0192173748f0a037",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbb65dd3a467f115",
+  "active": "0192173748f0a037",
   "lastOpenFiles": [
     "Week 1 - Raft Papar Study/Paper Study/Log Replication.md",
     "Week 1 - Raft Papar Study/Paper Study/Stable Store.md",
